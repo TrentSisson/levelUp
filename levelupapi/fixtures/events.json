@@ -6,8 +6,7 @@
             "game": 1,
             "organizer": 1,
             "start_date":"1990-07-09",
-            "description":"Risk",
-            "attendees":1
+            "description":"Risk"
         }
     },
     {
@@ -17,8 +16,7 @@
             "game": 1,
             "organizer": 1,
             "start_date":"2022-05-05",
-            "description":"D&D",
-            "attendees":1
+            "description":"D&D"
         }
     },
     {
@@ -28,8 +26,7 @@
             "game": 1,
             "organizer": 1,
             "start_date":"2022-05-05",
-            "description":"Fortnite",
-            "attendees":1
+            "description":"Fortnite"
         }
     }
 ]
