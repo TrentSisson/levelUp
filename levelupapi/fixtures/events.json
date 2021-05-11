@@ -1,0 +1,35 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "game": 1,
+            "organizer": 1,
+            "start_date":"1990-07-09",
+            "description":"Risk",
+            "attendees":1
+        }
+    },
+    {
+        "model": "levelupapi.event",
+        "pk": 2,
+        "fields": {
+            "game": 1,
+            "organizer": 1,
+            "start_date":"2022-05-05",
+            "description":"D&D",
+            "attendees":1
+        }
+    },
+    {
+        "model": "levelupapi.event",
+        "pk": 3,
+        "fields": {
+            "game": 1,
+            "organizer": 1,
+            "start_date":"2022-05-05",
+            "description":"Fortnite",
+            "attendees":1
+        }
+    }
+]

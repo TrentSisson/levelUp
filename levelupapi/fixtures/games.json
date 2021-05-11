@@ -1,0 +1,12 @@
+[
+    {
+        "model": "levelupapi.game",
+        "pk": 1,
+        "fields": {
+            "game_type": 1,
+            "title": "Me",
+            "number_of_players":5,
+            "skill_level":27
+        }
+    }
+]
